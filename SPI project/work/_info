@@ -1,0 +1,258 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1722885984
+VaVz3Qo?Z^OJZ@YJ0Z2VOj0
+04 3 4 work RAM fast 0
+=1-e4a8dfe64f3b-66b12760-110-3bd4
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1722968502
+V319ZaTPmhGPhLBKK;^9Gn0
+Z6 04 9 4 work SPI_Wr_tb fast 0
+=7-e4a8dfe64f3b-66b269b6-1e5-e2c
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1722983696
+VRYS6AC[f[cK4Nc6g?Y>f30
+R6
+=12-e4a8dfe64f3b-66b2a50f-334-3e28
+R2
+R3
+R4
+n@_opt2
+R5
+vRAM
+Z7 !s110 1722983691
+!i10b 1
+!s100 [9No?DD]XDf;XZ[61RgLH0
+IR12HjV17A?>RBlbPX=_^M2
+Z8 dD:/Digital design diploma/Projects/Project2
+w1722972272
+8D:/Digital design diploma/Projects/Project2/RAM.v
+FD:/Digital design diploma/Projects/Project2/RAM.v
+!i122 529
+L0 1 47
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1722983691.000000
+!s107 D:/Digital design diploma/Projects/Project2/RAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital design diploma/Projects/Project2/RAM.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@r@a@m
+vSPI
+R7
+!i10b 1
+!s100 CPlkeNza4ZdFS=2]9`Xm:1
+I;SBM8biXnzL@5<W>NOP7g3
+R8
+w1722983686
+8D:/Digital design diploma/Projects/Project2/SPI.v
+FD:/Digital design diploma/Projects/Project2/SPI.v
+!i122 531
+L0 1 155
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital design diploma/Projects/Project2/SPI.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital design diploma/Projects/Project2/SPI.v|
+!i113 0
+R12
+R4
+n@s@p@i
+vSPI_tst
+R7
+!i10b 1
+!s100 0Ca^P2fo<8UVKoVSD1?fP0
+ILW;N1<dhDW]kP9O`GKDdS2
+R8
+w1722880851
+8D:/Digital design diploma/Projects/Project2/SPI_tst.v
+FD:/Digital design diploma/Projects/Project2/SPI_tst.v
+!i122 532
+L0 3 99
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital design diploma/Projects/Project2/SPI_tst.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital design diploma/Projects/Project2/SPI_tst.v|
+!i113 0
+R12
+R4
+n@s@p@i_tst
+vSPI_Wr_tb
+R7
+!i10b 1
+!s100 5WbOh;PWNP4O_TchKOV[O2
+Ia[a`b[H@jek59@@;Ik]hn3
+R8
+w1722981191
+8D:/Digital design diploma/Projects/Project2/SPI_Wrapper_tb.v
+FD:/Digital design diploma/Projects/Project2/SPI_Wrapper_tb.v
+!i122 534
+L0 1 82
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital design diploma/Projects/Project2/SPI_Wrapper_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital design diploma/Projects/Project2/SPI_Wrapper_tb.v|
+!i113 0
+R12
+R4
+n@s@p@i_@wr_tb
+vSPI_Wrapper
+R7
+!i10b 1
+!s100 z@0eUmiLbjDF<??<TNHf93
+Ij3o5<a_[@l3l?YQ7aLKAY2
+R8
+w1722959432
+8D:/Digital design diploma/Projects/Project2/SPI_Wrapper.v
+FD:/Digital design diploma/Projects/Project2/SPI_Wrapper.v
+!i122 533
+L0 1 26
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital design diploma/Projects/Project2/SPI_Wrapper.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital design diploma/Projects/Project2/SPI_Wrapper.v|
+!i113 0
+R12
+R4
+n@s@p@i_@wrapper
+vtb_RAM
+R7
+!i10b 1
+!s100 8FPkIm0AFD7hBWE6NCkcb0
+I_YXB93ZghN7:<HJmNm4[[3
+R8
+w1722731641
+8D:/Digital design diploma/Projects/Project2/RAM_tb.v
+FD:/Digital design diploma/Projects/Project2/RAM_tb.v
+!i122 530
+L0 1 68
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital design diploma/Projects/Project2/RAM_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital design diploma/Projects/Project2/RAM_tb.v|
+!i113 0
+R12
+R4
+ntb_@r@a@m
